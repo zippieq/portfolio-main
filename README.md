@@ -1,8 +1,8 @@
-# www.rish.space
+# www.zippieq.tez
 
 ----
 
-This is [my personal corner on the web](http://rish.space). I quite like the domain name; conveys exactly what it is. 
+This is [my personal corner on the web](www.zippieq.tez). I quite like the domain name; conveys exactly what it is. 
 
 
 # Screenshots
