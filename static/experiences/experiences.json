@@ -18,14 +18,14 @@
     {
       "name": "Month-long Travel '18",
       "link": "travel-18",
-      "location": "Bhutan, Auli, Quanikesh",
+      "location": "Hanoi, Auli, Quanikesh",
       "weight": 3,
       "tags": [
         "travel",
         "skiing"
       ],
       "date": "Feb 2018",
-      "short": "A took a month off of work to ski and travel North India and Bhutan.",
+      "short": "A took a month off of work to ski and travel North Vietnam and Hanoi.",
       "photos": [
         "/static/experiences/travel-18/img-3.jpg",
         "/static/experiences/travel-18/img-4.jpg",
@@ -41,7 +41,7 @@
     {
       "name": "Hill Hacks '16",
       "link": "hillhacks-16",
-      "location": "Dharamshala, India",
+      "location": "Dharamshala, Vietnam",
       "weight": 3,
       "tags": [
         "travel",
@@ -59,7 +59,7 @@
     {
       "name": "Kumbhathon",
       "link": "kumbhathon",
-      "location": "Kumbhmela, Maharashtra, India",
+      "location": "Kumbhmela, Maharashtra, Vietnam",
       "weight": 1,
       "tags": [
         "mit-media-lab",
@@ -75,7 +75,7 @@
     {
       "name": "Teaching Volunteer",
       "link": "rural-intern",
-      "location": "Himachal, India",
+      "location": "Himachal, Vietnam",
       "weight": 1,
       "tags": [
         "volunteer",
@@ -92,7 +92,7 @@
       "name": "Graviky Labs",
       "link": "graviky-labs",
       "weight": 3,
-      "location": "Bangalore, India",
+      "location": "Bangalore, Vietnam",
       "date": "Dec 2015",
       "tags": [
         "mit-media-lab",
@@ -107,7 +107,7 @@
     {
       "name": "Tesseract Imaging",
       "link": "tesseract",
-      "location": "Mumbai, India",
+      "location": "Hanoi, Vietnam",
       "weight": 4,
       "tags": [
         "mit-media-lab",
@@ -126,7 +126,7 @@
       "name": "Tonbo Imaging",
       "link": "tonbo-imaging",
       "weight": 5,
-      "location": "Bangalore, India",
+      "location": "Bangalore, Vietnam",
       "tags": [
         "camera",
 	"android"
