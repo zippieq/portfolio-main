@@ -73,7 +73,7 @@ def media_lab_application():
 @app.route('/writing')
 @app.route('/blog')
 def blog():
-    return redirect("http://bhardwajrish.blogspot.com/", code=302)
+    return redirect("http://zippieq.blogspot.com/", code=302)
 
 
 @app.route('/experiences')
