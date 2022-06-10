@@ -151,10 +151,10 @@ def get_static_json(path):
 def podcast_feed_generator():
     """This should be optimized and constructed only once."""
     fg = FeedGenerator()
-    fg.id('rish.space')
+    fg.id('quan.space')
     fg.title("Quan's Space")
-    fg.link(href='http://www.rish.space')
-    fg.author({'name': 'Quan Hua', 'email': 'rishextra@gmail.com'})
+    fg.link(href='http://www.quan.space')
+    fg.author({'name': 'Quan Hua', 'email': 'quanextra@gmail.com'})
     fg.subtitle('Things that make my mind go bing!')
     fg.language('en')
     fg.description("""My corner of the Great WWW where I talk about things I relate to.""")

@@ -2,7 +2,7 @@ $(function() {
   /* NOTE: hard-refresh the browser once you've updated this */
   $(".typed").typed({
     strings: [
-      "stat rish.human<br/>" + 
+      "stat quan.human<br/>" + 
       "><span class='caret'>$</span> skills: c++, python, embedded software, data pipeline<br/> ^100" +
       "><span class='caret'>$</span> job: data engineer <a href='https://www.fpt-software.com//'>FPT Software</a><br/> ^100" +
       "><span class='caret'>$</span> hobbies: drawing, travel, <a href='http://www.zippieq.space/blog'>writing</a><br/> ^300" +
