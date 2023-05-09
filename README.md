@@ -1,8 +1,8 @@
-# www.zippieq.tez.page
+# zippieq.tez.page
 
 ----
 
-This is [my personal corner on the web](www.zippieq.tez.page). I quite like the domain name; conveys exactly what it is. 
+This is [my personal corner on the web](zippieq.tez.page). I quite like the domain name; conveys exactly what it is. 
 
 
 # Screenshots
