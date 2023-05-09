@@ -1,4 +1,4 @@
-# www.zippieq.tez
+# www.zippieq.tez.page
 
 ----
 
